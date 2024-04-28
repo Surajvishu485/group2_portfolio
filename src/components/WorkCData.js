@@ -24,7 +24,7 @@ const ProjectCardData = [
      },
      {
         imgsrc: pro3,
-        title:"Movie_Land Website",
+        title:"Drum-kit application",
         text:"Music is very crucial in our day to day life to deal with tough situation. This website used to produce piano's different sound to heal you..",
         view:"https://github.com/Surajvishu485/Drum_kit",
         source:"https://github.com/Priyankavishu49/drum-kit"
