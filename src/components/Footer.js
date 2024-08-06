@@ -40,7 +40,7 @@ const Footer = () => {
 
         <div className="right">
             <h3 style={{color:"#fff", marginBottom:"10px"}}>About..</h3>
-            <p>This is me <b>Suraj</b>, a frontend developer, gradudated from Babu Banarasi Das University.  I am having special skills in discussing new projects and design challenges. So, what for you are waiting😊 should contact me..</p>
+            <p>This is me <b>Suraj</b>, A frontend developer, gradudated from Babu Banarasi Das University.  I am having special skills in discussing new projects and design challenges. So, what for you are waiting😊 should contact me..</p>
             <div className="social">
                 <FaLinkedin
                 to="https://www.linkedin.com/in/suraj-vishwakarma-86a50a227/"
