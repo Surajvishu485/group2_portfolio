@@ -14,9 +14,7 @@ function WorkCards (props){
           <NavLink to={props.view} className="btn">
             Source 1
           </NavLink>
-          <NavLink to={props.source} className="btn">
-            Source 2
-          </NavLink>
+         
         </div>
       </div>
     </div>
